@@ -21,8 +21,8 @@ const Page = () => {
      <h2 className="text-2xl font-semibold mb-2">The Mission</h2>
      <h3 className="mb-8">By Craig L. Claybrook, Reciter of the Declaration</h3>
      <p className="mb-8 leading-8">For decades and decades, Americans enthusiastically read the <em>Declaration of Independence</em> in the public
-      arena, in schools, and on Fourth of July. But now, we celebrate our independence——but not the document
-      that gave us our independence——and it seems to have disappeared into oblivion. So, what can be done
+      arena, in schools, and on Fourth of July. But now, we celebrate our independence—but not the document
+      that gave us our independence—and it seems to have disappeared into oblivion. So, what can be done
       to launch the Declaration back onto the national stage? And, why is this so important?</p>
      <p className="mb-8 leading-8">Consider this reasoning: 1) the significance and impact of the document, 2) the &quot;Foundational
       Underpinnings&quot; of the document, 3) the deliberate demise of the document&apos;s &quot;worth,&quot; and 4) the
@@ -80,10 +80,9 @@ const Page = () => {
       bookends around the Declaration. This was the Founders&apos; way of &quot;shouting from the rooftops&quot; that God
       is &quot;in&quot; the Declaration and &quot;in&quot; the founding of this country! But in recent years, secularists took it upon
       themselves to deliver the &quot;crowning blow&quot; to the <em>Declaration of Independence</em> and America&apos;s
-      Foundational Underpinnings by eliminating History from the curriculum of most public schools——the
+      Foundational Underpinnings by eliminating History from the curriculum of most public schools—the
       ultimate &quot;demise!&quot; Another noteworthy detail is that the Chief Justice who ramrodded &quot;separation&quot; in
       1947 received the award for &quot;The Most Influential Supreme Court Justice of the Twentieth Century!&quot;</p>
-     <p className="mb-8 leading-8"><strong>Suggested reading: Never Before in History——America&apos;s Inspired Birth, published by Discover Institute, Seatle WA</strong></p>
      <p className="mb-8 leading-8"><strong>Fourth, the overwhelming need for a triumphal return of the document.</strong> These four references to God
       provide the key elements to &quot;launching the Declaration onto the national stage.&quot; They stand in sharp
       contrast to the Court&apos;s 1947 definition of &quot;separation of church and state.&quot; But how many people today
@@ -97,6 +96,7 @@ const Page = () => {
       been &quot;an empty shell of a document,&quot; and 4) joining forces with others. All of these things are key!</p>
      <p className="mb-8 leading-8">These four references to God serve as a catalyst for &quot;launching the Declaration onto the national stage.&quot;
       They also serve as a catalyst for spiritual awakening. They go &quot;hand in hand.&quot; Thank you for your help in &quot;launching&quot; the Declaration with your prayers, concern, and effort!</p>
+      <p className="mb-8 leading-8"><strong>Suggested reading: Never Before in History—America&apos;s Inspired Birth, published by Discover Institute, Seattle WA</strong></p>
     </Section>
    </Main>
   </>

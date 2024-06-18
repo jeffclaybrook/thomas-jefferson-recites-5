@@ -42,7 +42,7 @@ const Page = () => {
        <li className="leading-8">Hired as a professional water-skier in the Tommy Bartlett Water Ski Show, Wisconsin Dells (&apos;68); Ozark Water Ski Thrill Show, Osage Beach, MO (&apos;69); Sea World, Aurora, OH, where, among other things, he was featured for his backwards barefoot skiing and was known as the &quot;best clown&quot; (&apos;75)</li>
        <li className="leading-8">Officiated hundreds upon hundreds of weddings, mostly in the Dallas area (&apos;69-14)</li>
        <li className="leading-8 mb-2">At age 74, he was filmed reciting the <em>Declaration of Independence</em> in a studio for the Freedom Encounter organization and its show Freedom Journey in Branson, MO (&apos;22)</li>
-       <li className="leading-8 list-none">Note: His water skiing began as a 12-year old when his dad won a boat, motor, and trailer</li>
+       <li className="leading-8 list-none">Note: His water-skiing began as a 12-year old when his dad won a boat, motor, and trailer</li>
       </ul>
      </div>
     </div>
@@ -56,7 +56,7 @@ const Page = () => {
        <li className="leading-8">Edited ninety-nine <em>Counseling Keys</em> at Hope for the Heart radio ministry, Dallas (&apos;91-92)</li>
        <li className="leading-8">Featured in <em>The Dallas Morning News</em> with two editorials (&apos;95)</li>
        <li className="leading-8">Ghostwrote the book, <em>The Ultimate Gift</em> about a national phenomenon that erupted when a couple rented two billboards in hopes of adopting a child; as a freelance editor, he edited nine books (&apos;95-14)</li>
-       <li className="leading-8">Co-edited Incidents of the <em>U.S. Christian Commission</em>, a major Christian book that came out of the Civil War about the Union Army, published in 1869, retitled <em>Triumph Amidst Bloodshed——Civil War Soldiers&apos; Spiritual Victories</em>, published by <em>Primedia eLaunch</em> (&apos;12)</li>
+       <li className="leading-8">Co-edited Incidents of the <em>U.S. Christian Commission</em>, a major Christian book that came out of the Civil War about the Union Army, published in 1869, retitled <em>Triumph Amidst Bloodshed—Civil War Soldiers&apos; Spiritual Victories</em>, published by <em>Primedia eLaunch</em> (&apos;12)</li>
        <li className="leading-8">Published one article in <em>The Baptist Standard</em> (&apos;19), later footnoted in David Jeremiah&apos;s <em>Turning Point Magazine</em>, plus another <em>Standard</em> article in their now-discontinued sister magazine, <em>CommonCall</em> (&apos;22)</li>
       </ul>
      </div>
@@ -86,7 +86,7 @@ const Page = () => {
        <li className="leading-8">Organized <em>Patriotic Sunday</em>, a voter registration drive for Dallas area churches, capitalizing on July Fourth; covered by <em>The Dallas Morning News</em> (&apos;94)</li>
        <li className="leading-8">Recognized by the U.S. Census Bureau as the census-taker who had &quot;the highest production for Dallas, Tarrant, and Denton Counties&quot; (&apos;00)</li>
        <li className="leading-8 mb-2">Assistant Pastor/Pastor of Lakeview Congregation, located at a retirement home, Dallas (&apos;09-14)</li>
-       <li className="leading-8 list-none">Note: A reporter for <em>The Dallas Morning News</em> called him a &quot;Renaisance Man.&quot; He calls himself ADD.</li>
+       <li className="leading-8 list-none">Note: A reporter for <em>The Dallas Morning News</em> called him a &quot;Renaisance Man.&quot; He calls himself &quot;ADD.&quot;</li>
       </ul>
      </div>
     </div>
