@@ -96,7 +96,7 @@ const Page = () => {
       been &quot;an empty shell of a document,&quot; and 4) joining forces with others. All of these things are key!</p>
      <p className="mb-8 leading-8">These four references to God serve as a catalyst for &quot;launching the Declaration onto the national stage.&quot;
       They also serve as a catalyst for spiritual awakening. They go &quot;hand in hand.&quot; Thank you for your help in &quot;launching&quot; the Declaration with your prayers, concern, and effort!</p>
-      <p className="mb-8 leading-8"><strong>Suggested reading: Never Before in History—America&apos;s Inspired Birth, published by Discover Institute, Seattle WA</strong></p>
+      <p className="mb-8 leading-8"><strong>Suggested reading: Never Before in History—America&apos;s Inspired Birth, published by Discovery Institute, Seattle WA</strong></p>
     </Section>
    </Main>
   </>
