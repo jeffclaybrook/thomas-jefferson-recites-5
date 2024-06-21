@@ -17,6 +17,7 @@ const NavItems = () => {
   { label: "Home", href: "/", active: pathname === "/" },
   { label: "Mission", href: "/mission", active: activeItem(pathname, "/mission") },
   { label: "About", href: "/about", active: activeItem(pathname, "/about") },
+  { label: "Plan", href: "/plan", active: activeItem(pathname, "/plan") },
   { label: "Contact", href: "/contact", active: activeItem(pathname, "/contact") }
  ]
 }
