@@ -21,7 +21,10 @@ const Page = () => {
      <h2 className="text-2xl font-semibold mb-2">The Plan</h2>
      <h3 className="mb-2">Launching the Declaration onto the National Stage</h3>
      <h3 className="mb-8">By Craig L. Claybrook</h3>
-     <p className="mb-8 leading-8">Every worthwhile undertaking needs a start-up plan.</p>
+     <video width="720" height="480" controls className="mb-8">
+      <source src="/videos/short_video.mp4" type="video/mp4" />
+     </video>
+     <p className="mb-4 leading-8">Every worthwhile undertaking needs a start-up plan.</p>
      <p className="mb-4 leading-8"><strong>Stage One:</strong></p>
      <ol className="mb-8 leading-8 list-decimal">
       <li>Rely on God, which is self-explanatory.</li>
