@@ -2,6 +2,7 @@ import Image from "next/image"
 import Header from "@/components/Header"
 import Main from "@/components/Main"
 import Section from "@/components/Section"
+import CopyButton from "@/components/CopyButton"
 
 const Page = () => {
  return (
@@ -24,6 +25,7 @@ const Page = () => {
      <video width="720" height="480" controls className="mb-8">
       <source src="/videos/short_video.mp4" type="video/mp4" />
      </video>
+     <CopyButton />
      <p className="mb-4 leading-8">Every worthwhile undertaking needs a start-up plan.</p>
      <p className="mb-4 leading-8"><strong>Stage One:</strong></p>
      <ol className="mb-8 leading-8 list-decimal">
