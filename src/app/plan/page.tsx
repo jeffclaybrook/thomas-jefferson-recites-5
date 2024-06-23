@@ -27,17 +27,16 @@ const Page = () => {
       <li>Rely on God, which is self-explanatory.</li>
       <li>Formulate  a vision and put it into writing. Hopefully, this website suffices.</li>
       <li>Create a plan for putting the vision into action and keeping it simple.</li>
-      <ul className="list-disc">
-       <li>Put a 60-second video of the Declaration&apos;s most potent verbiage on their particular social media.</li>
-       <li>Include the message &quot;to see the full recitation, go to this website.&quot;</li>
-       <li>Ask for people to forward this shorter version video to three or more of their friends.</li>
+      <ul className="list-disc px-4">
+       <li>Place a 60-second video of the Declaration&apos;s most potent verbiage on their particular social media.</li>
+       <li>Include the message &quot;to see the full recitation, go to www.thomasjeffersonrecites.com.&quot;</li>
+       <li>Ask for people to cut and passte and then forward this shorter version video to three or more of their friends.</li>
       </ul>
       <li>See how this works out and go from there. Hopefully, multiplication kicks in and evenutally a &quot;movement&quot; develops.</li>
      </ol>
      <p className="mb-8 leading-4"><strong>Stage Two:</strong></p>
      <ol className="mb-8 leading-8 list-decimal">
       <li>Address the issue of &quot;highly interested&quot; people staying connected.</li>
-      <li>Categorize people by areas of interest.</li>
       <li>Direct people to the book, <em>Never Before in History-America&apos;s Inspired Birth,</em> published by the Discovery Institute, Seattle, WA.</li>
      </ol>
      <p className="mb-4 leading-8"><strong>Stage Three:</strong></p>
