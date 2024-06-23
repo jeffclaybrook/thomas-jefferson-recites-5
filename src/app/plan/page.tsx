@@ -33,7 +33,7 @@ const Page = () => {
       <ul className="list-disc px-4">
        <li>Place a 60-second video of the Declaration&apos;s most potent verbiage on their particular social media.</li>
        <li>Include the message &quot;to see the full recitation, go to www.thomasjeffersonrecites.com.&quot;</li>
-       <li>Ask for people to cut and passte and then forward this shorter version video to three or more of their friends.</li>
+       <li>Ask for people to cut and paste and then forward this shorter version video to three or more of their friends.</li>
       </ul>
       <li>See how this works out and go from there. Hopefully, multiplication kicks in and evenutally a &quot;movement&quot; develops.</li>
      </ol>
