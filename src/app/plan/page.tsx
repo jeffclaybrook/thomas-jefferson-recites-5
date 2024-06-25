@@ -49,6 +49,7 @@ const Page = () => {
       <li>Set up a system for those who wish to memorize some or all of the Declaration.</li>
       <li>Everywhere he goes, he hears, &quot;I coud never do what you do.&quot; This is because people are lost when it comes to memorization. He directs people who adhere to the &quot;Muble, Grumble, and Fumble System&quot; to the &quot;Five Flawless Times System.&quot;</li>
      </ol>
+     <p className="mb-4 leading-8">This video markes the climatic conclusion of the Declration. Mr. Claybrook hopes that people will find this website worthy of passing along, that they will cut and paste this snippit to send to three or more friends.</p>
     </Section>
    </Main>
   </>
