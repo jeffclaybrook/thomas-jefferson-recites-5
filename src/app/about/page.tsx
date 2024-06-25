@@ -40,7 +40,7 @@ const Page = () => {
       <ul className="list-disc px-4">
        <li className="leading-8">Achieved 1st Place among 400 woodwind soloists as a 7th grader; chosen first chair of seven bands: junior high band, high school band at end of 8th grade, All-District Band as a 9th grader; three bands at summer band camp in Aurora, Colorado, and his college band; he was also highly ranked in All-State Bands; from Wewoka, OK (&apos;58-69)</li>
        <li className="leading-8">Hired as a professional water-skier in the Tommy Bartlett Water Ski Show, Wisconsin Dells (&apos;68); Ozark Water Ski Thrill Show, Osage Beach, MO (&apos;69); Sea World, Aurora, OH, where, among other things, he was featured for his backwards barefoot skiing and was known as the &quot;best clown&quot; (&apos;75)</li>
-       <li className="leading-8">Officiated hundreds upon hundreds of weddings, mostly in the Dallas area (&apos;69-14)</li>
+       <li className="leading-8">Officiated hundreds upon hundreds of weddings, mostly in the Dallas area (&apos;99-14)</li>
        <li className="leading-8 mb-2">At age 74, he was filmed reciting the <em>Declaration of Independence</em> in a studio for the Freedom Encounter organization and its show Freedom Journey in Branson, MO (&apos;22)</li>
        <li className="leading-8 list-none">Note: His water-skiing began as a 12-year old when his dad won a boat, motor, and trailer</li>
       </ul>
