@@ -21,8 +21,8 @@ const Page = () => {
      <h2 className="text-2xl font-semibold mb-2">The Mission</h2>
      <h3 className="mb-8">By Craig L. Claybrook, Reciter of the Declaration</h3>
      <p className="mb-8 leading-8">For decades and decades, Americans enthusiastically read the <em>Declaration of Independence</em> in the public
-      arena, in schools, and on Fourth of July. But now, we celebrate our independence—but not the document
-      that gave us our independence—and it seems to have disappeared into oblivion. So, what can be done
+      arena, in schools, and on Fourth of July. We now celebrate our independence but not the document
+      that gave us our independence. It seems to have disappeared into oblivion. So, what can be done
       to launch the Declaration back onto the national stage? And, why is this so important?</p>
      <p className="mb-8 leading-8">Consider this reasoning: 1) the significance and impact of the document, 2) the &quot;Foundational
       Underpinnings&quot; of the document, 3) the deliberate demise of the document&apos;s &quot;worth,&quot; and 4) the
@@ -53,7 +53,7 @@ const Page = () => {
       continue to this day. Politically, he became known for his &quot;Resistance Theory: disobey unjust rulers
       and laws.&quot;</p>
      <p className="mb-8 leading-8">Why were these events so vitally important? Pope Gregory VII started the march to America&apos;s freedom
-      with what became known as &quot;freedom of religion.&quot; It also set forth the original meaning of &quot;separation
+      with what became known as &quot;freedom of religion.&quot; It also became the Founder&apos;s driving motivation. It also set forth the original meaning of &quot;separation
       of church and state.&quot; Cardinal Stephen Langton&apos;s 3500-word <em>Magna Carta</em> was designated as Britain&apos;s
       foremost legal document and it still holds that distinction. It dealt with the foremost legal issue of the
       Middle Ages, &quot;limiting the power of kings.&quot; The Founders used it extensively. Martin Luther&apos;s theses caused the pope to put him on trial
