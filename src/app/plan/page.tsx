@@ -32,7 +32,7 @@ const Page = () => {
      <h4 className="leading-8 font-bold">Final Comments:</h4>
      <p className="mb-4 leading-8">He recommends the book <a href="https://www.amazon.com/Never-Before-History-Americas-Inspired/dp/0964210428" target="_blank" rel="noreferrer"><em>Never Before in History--America&apos;s Inspired Birth,</em></a> published by the Discovery Institute, Seattle, WA.</p>
      <p className="mb-4 leading-8">For those who wish to memorize all or part of the Declaration, he will be adding a brief summary of &quot;how to memorize&quot; to this website.</p>
-     <p className="mb-4 leading-8">This brief video above presents the climactic conclusion of the Declaration. Mr Claybrook hopes that people will find this website worthy of passing along. At age 77, he is more interested in people watching him via video than &quot;in person&quot; He may be reached at craigclaybrook@gmail.com.</p>
+     <p className="mb-4 leading-8">This brief video above presents the climactic conclusion of the Declaration. Mr Claybrook hopes that people will find this website worthy of passing along. At age 77, he is more interested in people watching him via video than &quot;in person&quot; He may be reached at <a href="mailto:craigclaybrook@gmail.com" target="_blank" rel="noreferrer">craigclaybrook@gmail.com</a>.</p>
     </Section>
    </Main>
   </>
